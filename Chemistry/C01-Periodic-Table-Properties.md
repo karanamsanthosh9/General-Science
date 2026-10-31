@@ -8,13 +8,23 @@
 
 ## 0. Periodic Table Image
 
-
 <img width="1920" height="1123" alt="image" src="https://github.com/user-attachments/assets/d1d8cb2e-db5f-462c-94c1-b8b4b4956846" />
-
 
 ---
 
 ## 1. Elements 1 to 30 — Quick Table
+
+### Super Quick Memory Table
+
+```text
+H   He
+Li  Be  B   C   N   O   F   Ne
+Na  Mg  Al  Si  P   S   Cl  Ar
+K   Ca  Sc  Ti  V   Cr  Mn  Fe  Co  Ni
+Cu  Zn
+```
+
+### Full Symbol + Name Table
 
 | Atomic No. | Symbol | Element | Atomic No. | Symbol | Element |
 |------------|--------|---------|------------|--------|---------|
@@ -83,6 +93,84 @@
 | Period 5 | Rb to Xe (18 elements) | N-O shells |
 | Period 6 | Cs to Rn (32 elements) | includes lanthanides |
 | Period 7 | Fr to Og (32 elements) | includes actinides (mostly synthetic/radioactive) |
+
+### 3.2 How to Identify Whether an Element is a Metal, Non-Metal or Metalloid?
+
+An element is classified mainly by its:
+- electronic configuration / valence electrons
+- ionisation energy
+- electronegativity
+- conductivity
+- physical appearance (lustre, hardness, malleability)
+- tendency to lose or gain electrons
+
+#### 1) Metals
+Metals are usually found:
+- on the left side and centre of the periodic table
+- in Groups 1, 2 and most of the transition metals
+- with 1 to 3 valence electrons
+
+##### Main properties of metals
+- Good conductors of heat and electricity
+- Lustrous (shiny)
+- Ductile and malleable
+- Usually form positive ions by losing electrons
+- Low ionisation energy and low electronegativity
+
+##### Examples
+Na, Mg, Al, Fe, Cu, Zn, Ca, K
+
+#### 2) Non-metals
+Non-metals are usually found:
+- on the right side of the periodic table
+- mostly in Groups 14–18
+- with 4 to 8 valence electrons
+
+##### Main properties of non-metals
+- Poor conductors of heat and electricity
+- Dull appearance
+- Brittle in solid state
+- Usually form negative ions by gaining electrons
+- High ionisation energy and high electronegativity
+
+##### Examples
+C, N, O, P, S, F, Cl
+
+#### 3) Metalloids (Semi-metals)
+Metalloids are elements near the zig-zag line dividing metals and non-metals.
+
+##### Examples
+B, Si, Ge, As, Sb, Te, Po
+
+##### Main properties of metalloids
+- Show properties of both metals and non-metals
+- Often semiconductors
+- Used in electronics
+
+#### 4) Easy rule for exams
+- Left side of periodic table → mostly metals
+- Right side of periodic table → mostly non-metals
+- Border between them → metalloids
+
+#### 5) Chemical criterion
+A very important exam idea:
+- Metals generally lose electrons easily.
+- Non-metals generally gain electrons easily.
+- Metalloids show intermediate behaviour.
+
+#### 6) Quick memory chart
+
+| Type | Position in PT | Valence electrons | Tendency | Examples |
+|------|----------------|------------------|----------|----------|
+| Metals | Left and centre | 1–3 | Lose electrons | Na, Mg, Fe |
+| Non-metals | Right side | 4–8 | Gain electrons | O, N, Cl |
+| Metalloids | Zig-zag line | Usually 3–6 | Intermediate | B, Si, As |
+
+#### 7) Exam tip
+If an element is:
+- shiny, conducting, malleable, loses electrons → metal
+- dull, brittle, non-conducting, gains electrons → non-metal
+- shows both → metalloid
 
 ---
 
