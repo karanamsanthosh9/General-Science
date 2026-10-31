@@ -1,12 +1,48 @@
 # C01 — Periodic Table & Periodic Properties 🔥 Priority 1
 
-> **Exam Importance:** The Periodic Table is one of the most-asked Chemistry topics. Element positions, group/period names, periodic trends, most/least reactive elements, and specific element facts generate 3–5 questions per paper.
+> **Exam Importance:** The Periodic Table is one of the most-asked Chemistry topics. Element positions, group/period names, periodic trends, most/least reactive elements, and specific element facts are frequently tested in exams.
 
 **Cross-links:** [C02 Chemical Bonding](C02-Chemical-Bonding.md) · [C04 Metals-NonMetals](C04-Metals-NonMetals.md) · [C07 Structure of Atom](C07-Structure-of-Atom.md)
 
 ---
 
-## 1. History of the Periodic Table
+## 0. Periodic Table Image
+
+![Periodic Table](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Periodic_table_large.svg/1200px-Periodic_table_large.svg.png)
+
+---
+
+## 1. Elements 1 to 30 — Quick Table
+
+| Atomic No. | Symbol | Element | Atomic No. | Symbol | Element |
+|------------|--------|---------|------------|--------|---------|
+| 1 | H | Hydrogen | 2 | He | Helium |
+| 3 | Li | Lithium | 4 | Be | Beryllium |
+| 5 | B | Boron | 6 | C | Carbon |
+| 7 | N | Nitrogen | 8 | O | Oxygen |
+| 9 | F | Fluorine | 10 | Ne | Neon |
+| 11 | Na | Sodium | 12 | Mg | Magnesium |
+| 13 | Al | Aluminium | 14 | Si | Silicon |
+| 15 | P | Phosphorus | 16 | S | Sulphur |
+| 17 | Cl | Chlorine | 18 | Ar | Argon |
+| 19 | K | Potassium | 20 | Ca | Calcium |
+| 21 | Sc | Scandium | 22 | Ti | Titanium |
+| 23 | V | Vanadium | 24 | Cr | Chromium |
+| 25 | Mn | Manganese | 26 | Fe | Iron |
+| 27 | Co | Cobalt | 28 | Ni | Nickel |
+| 29 | Cu | Copper | 30 | Zn | Zinc |
+
+### First 30 Elements — Key Pattern
+- Period 1: H, He
+- Period 2: Li, Be, B, C, N, O, F, Ne
+- Period 3: Na, Mg, Al, Si, P, S, Cl, Ar
+- Period 4: K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn
+
+> Memory trick: “Happy Henry Likes Beer, But Could Not Offer Fine Coffee; Neon, Sodium, Magnesium, Aluminium, Silicon, Phosphorus, Sulphur, Chlorine, Argon...”
+
+---
+
+## 2. History of the Periodic Table
 
 | Scientist | Contribution | Year |
 |-----------|-------------|------|
@@ -20,7 +56,7 @@
 
 ---
 
-## 2. Structure of the Periodic Table
+## 3. Structure of the Periodic Table
 
 | Feature | Value |
 |---------|-------|
@@ -34,7 +70,7 @@
 | Lanthanides | Period 6, f-block (Ce to Lu) |
 | Actinides | Period 7, f-block (Th to Lr) — mostly radioactive |
 
-### 2.1 Periods
+### 3.1 Periods
 
 | Period | Elements | Shells filled |
 |--------|---------|--------------|
@@ -48,7 +84,7 @@
 
 ---
 
-## 3. Key Groups — PYQ Master Table
+## 4. Key Groups — PYQ Master Table
 
 | Group | Name | Elements | Key Properties | PYQ |
 |-------|------|---------|---------------|-----|
@@ -65,7 +101,7 @@
 
 ---
 
-## 4. Periodic Trends — Master Comparison Table
+## 5. Periodic Trends — Master Comparison Table
 
 | Property | Across Period (Left → Right) | Down a Group (Top → Bottom) | Reason |
 |---------|-----------------------------|-----------------------------|--------|
@@ -83,7 +119,7 @@
 
 ---
 
-## 5. Electronegativity Scale
+## 6. Electronegativity Scale
 
 **Pauling Electronegativity — Key Values:**
 
@@ -102,7 +138,7 @@
 
 ---
 
-## 6. Important Element Facts — PYQ Master Table
+## 7. Important Element Facts — PYQ Master Table
 
 | Fact | Element/Details | PYQ |
 |------|----------------|-----|
@@ -133,7 +169,7 @@
 
 ---
 
-## 7. Elemental Abundance Summary
+## 8. Elemental Abundance Summary
 
 **Earth's Crust (by mass):**
 ```
@@ -153,7 +189,7 @@ O (65%) > C (18%) > H (10%) > N (3%) > Ca (1.5%) > P (1%)
 
 ---
 
-## 8. Mnemonic — Groups Memory
+## 9. Mnemonic — Groups Memory
 
 > **Group 1 (Alkali metals):** "**Li Na K Rub Cs Frame**" → Li-Na-K-Rb-Cs-Fr
 
@@ -167,7 +203,7 @@ O (65%) > C (18%) > H (10%) > N (3%) > Ca (1.5%) > P (1%)
 
 ---
 
-## 9. Exam Traps
+## 10. Exam Traps
 
 > ⚠️ **TRAP 1:** Most abundant element in Earth's **atmosphere** = Nitrogen (N₂, 78%), NOT oxygen.
 
@@ -187,7 +223,7 @@ O (65%) > C (18%) > H (10%) > N (3%) > Ca (1.5%) > P (1%)
 
 ---
 
-## 10. Frequently Confused Concepts
+## 11. Frequently Confused Concepts
 
 | Concept A | Concept B | Distinction |
 |-----------|-----------|------------|
@@ -200,7 +236,7 @@ O (65%) > C (18%) > H (10%) > N (3%) > Ca (1.5%) > P (1%)
 
 ---
 
-## 11. Quick Revision Box
+## 12. Quick Revision Box
 
 ```
 ╔══════════════════════════════════════════════════════╗
