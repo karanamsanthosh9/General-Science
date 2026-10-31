@@ -26,23 +26,17 @@ Cu  Zn
 
 ### Full Symbol + Name Table
 
-| Atomic No. | Symbol | Element | Atomic No. | Symbol | Element |
-|------------|--------|---------|------------|--------|---------|
-| 1 | H | Hydrogen | 2 | He | Helium |
-| 3 | Li | Lithium | 4 | Be | Beryllium |
-| 5 | B | Boron | 6 | C | Carbon |
-| 7 | N | Nitrogen | 8 | O | Oxygen |
-| 9 | F | Fluorine | 10 | Ne | Neon |
-| 11 | Na | Sodium | 12 | Mg | Magnesium |
-| 13 | Al | Aluminium | 14 | Si | Silicon |
-| 15 | P | Phosphorus | 16 | S | Sulphur |
-| 17 | Cl | Chlorine | 18 | Ar | Argon |
-| 19 | K | Potassium | 20 | Ca | Calcium |
-| 21 | Sc | Scandium | 22 | Ti | Titanium |
-| 23 | V | Vanadium | 24 | Cr | Chromium |
-| 25 | Mn | Manganese | 26 | Fe | Iron |
-| 27 | Co | Cobalt | 28 | Ni | Nickel |
-| 29 | Cu | Copper | 30 | Zn | Zinc |
+| 1 | H | Hydrogen | 11 | Na | Sodium | 21 | Sc | Scandium |
+|---|---|----------|----|----|--------|----|----|----------|
+| 2 | He | Helium | 12 | Mg | Magnesium | 22 | Ti | Titanium |
+| 3 | Li | Lithium | 13 | Al | Aluminium | 23 | V | Vanadium |
+| 4 | Be | Beryllium | 14 | Si | Silicon | 24 | Cr | Chromium |
+| 5 | B | Boron | 15 | P | Phosphorus | 25 | Mn | Manganese |
+| 6 | C | Carbon | 16 | S | Sulphur | 26 | Fe | Iron |
+| 7 | N | Nitrogen | 17 | Cl | Chlorine | 27 | Co | Cobalt |
+| 8 | O | Oxygen | 18 | Ar | Argon | 28 | Ni | Nickel |
+| 9 | F | Fluorine | 19 | K | Potassium | 29 | Cu | Copper |
+| 10 | Ne | Neon | 20 | Ca | Calcium | 30 | Zn | Zinc |
 
 ### First 30 Elements — Key Pattern
 - Period 1: H, He
