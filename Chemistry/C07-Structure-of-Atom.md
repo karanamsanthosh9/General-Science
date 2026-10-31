@@ -19,6 +19,7 @@ Atomic number (Z) = number of protons
 Mass number (A)   = protons + neutrons
 Neutrons          = A − Z
 ```
+<img width="624" height="500" alt="image" src="https://github.com/user-attachments/assets/66858556-8270-4258-ad6b-49f3abaf3f01" />
 
 ---
 
