@@ -8,7 +8,9 @@
 
 ## 0. Periodic Table Image
 
-![Periodic Table](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Periodic_table_large.svg/1200px-Periodic_table_large.svg.png)
+
+<img width="1920" height="1123" alt="image" src="https://github.com/user-attachments/assets/d1d8cb2e-db5f-462c-94c1-b8b4b4956846" />
+
 
 ---
 
